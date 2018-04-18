@@ -21,7 +21,8 @@ public class Colaborativo {
         System.out.println("Hola3");
         
         System.out.println("Luis Fernando");
-        System.out.println("Christian Chasi");
+        System.out.println("Christian Chasi les saluda compañeros");
+        
     }
     
 }
