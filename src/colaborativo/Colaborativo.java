@@ -23,7 +23,7 @@ public class Colaborativo {
         
         System.out.println("dasdsa");
         System.out.println("aaa");
-        System.out.println("V3");
+        
         System.out.println("V2");
         
     }
