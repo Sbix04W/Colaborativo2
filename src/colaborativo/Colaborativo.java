@@ -16,16 +16,20 @@ public class Colaborativo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+
         System.out.println("Luis Fernando");
         System.out.println("Omar Fonseca");
         System.out.println("Christian Chasi les saluda compañeros");
-        
+
         System.out.println("dasdsa");
         System.out.println("aaa");
-        
+
         System.out.println("V2");
-        
+
+        for (int i = 0; i < 10; i++) {
+            System.out.println("HOLA");
+        }
+
     }
-    
+
 }
