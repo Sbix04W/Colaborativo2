@@ -18,6 +18,7 @@ public class Colaborativo {
         // TODO code application logic here
         
         System.out.println("Luis Fernando");
+        System.out.println("Omar Fonseca");
         System.out.println("Christian Chasi les saluda compañeros");
         
     }
