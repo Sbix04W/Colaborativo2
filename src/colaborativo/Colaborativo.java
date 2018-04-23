@@ -20,7 +20,7 @@ public class Colaborativo {
         System.out.println("Luis Fernando");
         System.out.println("Omar Fonseca");
         System.out.println("Christian Chasi les saluda compañeros");
-        
+        System.out.println("Hola");
         System.out.println("dasdsa");
         System.out.println("aaa");
         System.out.println("V3");
