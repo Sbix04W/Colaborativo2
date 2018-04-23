@@ -19,6 +19,7 @@ public class Colaborativo {
         
         System.out.println("Luis Fernando");
         System.out.println("Omar Fonseca");
+        System.out.println("2018/4/23");
         System.out.println("Christian Chasi les saluda compañeros");
         
     }
